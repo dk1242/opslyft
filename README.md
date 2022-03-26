@@ -1,9 +1,11 @@
 # opslyft
-For frontend:
+**For frontend:**
+<br/>
  1.cd frontend
- 2.npm install
- 3.npm start
-For backend:
- 1.cd backend
- 2.npm install
- 3.npm start/ npm run dev 
+ <br/>2.npm install
+ <br/>3.npm start
+<br/>
+**For backend:**
+ <br/>1.cd backend
+ <br/>2.npm install
+ <br/>3.npm start/ npm run dev 
